@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#dashboard {
+    width: 80%;
+    margin: auto;
+}
+#tabs {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+#content {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+}
